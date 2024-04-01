@@ -1,7 +1,8 @@
-import React from 'react';
-import Button1 from '../components/Buttons/Button1';
-import Image from 'next/image';
-import Layout from '../components/Layout';
+import React from "react";
+
+import Button1 from "../components/Buttons/Button1";
+import Image from "next/image";
+import Layout from "../components/Layout";
 
 export default function PageNotFount() {
   return (
